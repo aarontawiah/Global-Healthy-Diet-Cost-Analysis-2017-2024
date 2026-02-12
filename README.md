@@ -30,16 +30,16 @@ The dashboard explores:
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](executive-overview.png)
+![Executive Overview](executive-overview.jpg)
 
 ### Regional Cost Disparities
-![Regional Disparities](regional-disparities.png)
+![Regional Disparities](regional-disparities.jpg)
 
 ### Time & Volatility Analysis
-![Volatility Analysis](volatility-analysis.png)
+![Volatility Analysis](volatility-analysis.jpg)
 
 ### Diet Component Breakdown
-![Component Breakdown](component-breakdown.png)
+![Component Breakdown](component-breakdown.jpg)
 
 ---
 
